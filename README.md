@@ -21,13 +21,18 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ## 🖼️ App Preview
 
-<!-- Replace these links with actual image paths or URLs -->
-![App Screenshot 1](images/app_screenshot_1.png)
-*Main interface where users enter their budget range.*
+=
+![1. WebPage](images/Laptop_Reccomender_Streamlit.png)
+*Main interface for User.*
 
-![App Screenshot 2](images/app_screenshot_2.png)
-*Top 10 value-for-money laptops in the selected budget range.*
+![2. EDA Insight](images/brand_distribution.png)
+*Brand Laptops Distribution.*
 
+![3. EDA Insight](images/average_price_by_brand.png)
+*Average Price By Brand.*
+
+![4. EDA Insight](images/HeatMap.png)
+*Coerrelation Matrix.*
 ---
 
 ## 🔍 Features
