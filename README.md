@@ -90,5 +90,4 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 ```bash
 git clone https://github.com/sdnr1418/laptop-vfm-recommender.git
 cd laptop-vfm-recommender
-pip install -r requirements.txt
 streamlit run web_app.py
