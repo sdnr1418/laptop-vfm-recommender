@@ -34,6 +34,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ![4. EDA Insight](images/HeatMap.png)
 *Coerrelation Matrix.*
+
 ---
 
 ## 🔍 Features
