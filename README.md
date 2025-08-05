@@ -11,6 +11,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 - Extracting and cleaning real-world laptop listings
 - Engineering features like CPU and GPU performance
 - Calculating a **Value for Money (VFM) Score**
+- VFM Score = (0.40 × normalized CPU performance) + (0.25 × normalized RAM) + (0.25 × normalized GPU) + (0.10 × normalized Storage)  − normalized Price
 - Allowing users to search laptops by budget and specifications
 - Providing instant Amazon search links for each recommendation
 
