@@ -2,6 +2,7 @@
 
 Welcome to the **Smart Laptop Buying Assistant** – a machine learning-powered application designed to help users find the best **value-for-money laptops** within their budget. This tool intelligently analyzes a dataset of laptops to recommend options based on performance-weighted features, price, and user-defined criteria.
 
+> link: `https://laptop-vfm-recommender-dneknzqgkgb9u6ojpzkrfc.streamlit.app/`
 ---
 
 ## 📌 Project Overview
