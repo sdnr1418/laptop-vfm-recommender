@@ -37,7 +37,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ---
 
-## 🔍 Features
+## Features
 
 - **Interactive Interface:** Enter your budget and get instant recommendations.
 - **Value for Money Scoring:** Combines CPU, RAM, GPU, storage and price.
@@ -48,7 +48,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ---
 
-## 📊 Feature Engineering
+## Feature Engineering
 
 | Feature              | Description |
 |----------------------|-------------|
@@ -59,7 +59,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ---
 
-## ⚒️ Tech Stack
+## Tech Stack
 
 - **Python 3.x**
 - **Pandas & NumPy**
@@ -70,7 +70,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. Dataset of over 4,000+ laptops scraped from Amazon
 2. Cleaned and imputed missing values
@@ -85,7 +85,7 @@ Choosing a laptop can be overwhelming due to the variety of brands, specificatio
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/sdnr1418/laptop-vfm-recommender.git
